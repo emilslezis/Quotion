@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotion</string>
+    <string name="channel_name">default</string>
+    <string name="channel_description">default description</string>
+    <string name="quotion">Quotion</string>
+    <string name="motivate_your_days">Daily motivation at ease</string>
+    <string name="email">Email</string>
+</resources>

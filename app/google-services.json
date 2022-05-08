@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92969446481",
+    "firebase_url": "https://qoution-a768c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qoution-a768c",
+    "storage_bucket": "qoution-a768c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92969446481:android:960adc4656e1f472bfdc70",
+        "android_client_info": {
+          "package_name": "com.quotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92969446481-ifcpf3o61smht9hclv25klu0rrcasrb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_J4CAtkTzf66wUGGB3Y51a1eSL67lJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92969446481-ifcpf3o61smht9hclv25klu0rrcasrb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
